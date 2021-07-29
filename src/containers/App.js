@@ -54,7 +54,7 @@ class App extends Component{
             return (
               <>
                 <Navbar onButtonSubmit={this.onButtonSubmit}/>
-                <h1 className='tc'>CLICK ON THE USER BUTTON TO GET THE USER DETAILS</h1>
+                <h1 className='tc'>CLICK ON THE GET USERS BUTTON TO GET THE USER DETAILS</h1>
               </>
             );
 
